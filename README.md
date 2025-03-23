@@ -43,7 +43,9 @@ Hệ thống được xây dựng với mục tiêu mô phỏng quy trình nghi�
 - /State-machine Diagram : Biểu đồ máy trạng thái của đối tượng đặc trưng
 - /Thiết kế hệ thống     : Các biểu đồ chi tiết lớp, biểu đồ gói
 - /Use-case Diagram      : Biểu đồ ca sử dụng
+- /Baocao.pdf            : File báo cáo
 - /README.txt            : Mô tả dự án
+- /Ước lượng chi phí.docx: Ước lượng chi phí dự án
 
 📬 LIÊN HỆ
 ----------
