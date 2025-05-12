@@ -44,12 +44,18 @@ Hệ thống được xây dựng với mục tiêu mô phỏng quy trình nghi�
 - /Thiết kế hệ thống     : Các biểu đồ chi tiết lớp, biểu đồ gói
 - /Use-case Diagram      : Biểu đồ ca sử dụng
 <<<<<<< HEAD
+<<<<<<< HEAD
 - /README.txt            : Mô tả dự án
 =======
 - /Baocao.pdf            : File báo cáo
 - /README.txt            : Mô tả dự án
 - /Ước lượng chi phí.docx: Ước lượng chi phí dự án
 >>>>>>> Thu
+=======
+- /Baocao.pdf            : File báo cáo
+- /README.txt            : Mô tả dự án
+- /Ước lượng chi phí.docx: Ước lượng chi phí dự án
+>>>>>>> 0d4309e643a82392dd067ab9508bd7f9043f240b
 
 📬 LIÊN HỆ
 ----------
