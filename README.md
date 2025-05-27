@@ -1,6 +1,4 @@
-============================================================
 HỆ THỐNG THƯƠNG MẠI ĐIỆN TỬ - PHÂN TÍCH VÀ THIẾT KẾ HỆ THỐNG
-============================================================
 
 📌 GIỚI THIỆU DỰ ÁN
 --------------------
@@ -36,7 +34,7 @@ Hệ thống được xây dựng với mục tiêu mô phỏng quy trình nghi�
    - Theo dõi và xử lý đơn hàng
    - Phản hồi khiếu nại từ khách hàng
 
-📁 CẤU TRÚC THƯ MỤC (Tùy chọn)
+📁 CẤU TRÚC THƯ MỤC
 -------------------------------
 - /Activity Diagram      : Biểu đồ hoạt động (Activity Diagram) cho các ca sử dụng
 - /Class Diagram         : Biểu đồ lớp(biểu đồ đối tượng, biểu đồ lĩnh vực, biểu đồ lớp theo ca sử dụng)
