@@ -30,7 +30,7 @@ Hệ thống được xây dựng với mục tiêu mô phỏng quy trình nghi�
    - Nhận kết quả giải quyết từ hệ thống
 
 4. **Người bán quản lý sản phẩm và đơn hàng**
-   - Đăng sản phẩm, cập nhật thông tin và khuyến mãi
+   - Đăng sản phẩm, cập nhật thông tin
    - Theo dõi và xử lý đơn hàng
    - Phản hồi khiếu nại từ khách hàng
 
